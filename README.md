@@ -1,0 +1,1 @@
+The book by N. Koblitz introduces Elliptic Curves and Modular Forms as part of solution to the Congruent Number Problem. I read, solved and presented portions of the book as part of reading project in Autumn-2025.
